@@ -1,1 +1,1 @@
-# DecoratorPattern2
+# Decorator Pattern 2nd example
